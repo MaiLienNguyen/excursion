@@ -1,0 +1,68 @@
+/* style.css */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+  display: block;
+  margin-top: 1rem;
+}
+
+/* Paragraph styles */
+p {
+  margin: 1rem;
+}
+
+/* Video styles */
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Image styles */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
